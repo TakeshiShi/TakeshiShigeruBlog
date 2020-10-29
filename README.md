@@ -1,2 +1,0 @@
-# TakeshiShigeruBlog
-My blog personal
